@@ -3,7 +3,7 @@
 Title: Geocoding Application using OpenCage API
 
 The "Geocoding Application using OpenCage API" project is a Python script that allows users to convert human-readable addresses into geographic coordinates (latitude and longitude) using the OpenCage Geocoder API. Geocoding is a fundamental process for mapping and location-based services, and this script simplifies the task of obtaining precise geographic data for a given address.
-#########################################################################################
+#################################
 Key Features:
 1. User-Friendly Interface: The script provides a user-friendly interface that prompts the user to input an address they want to geocode.
 
@@ -15,7 +15,7 @@ Key Features:
 
 5. Security: The OpenCage API key used in the script for geocoding is protected and not exposed in the code, ensuring secure usage.
 
-##########################################################################################
+#################################
 How to Use:
 1. Run the script.
 2. Enter an address that you want to geocode when prompted.
